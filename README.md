@@ -1,5 +1,4 @@
 # Stress detection and activity peaks
-![cover](EDAportada.PNG)
 
 This project is a statistical and exploratory data analysis approach to measure stress and physical activity through data provided by smart watches. 
 
